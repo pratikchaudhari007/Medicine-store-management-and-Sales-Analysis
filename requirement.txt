@@ -1,0 +1,7 @@
+selenium
+django
+matplotlib
+seaborn
+requests
+pandas
+webdriver-manager
